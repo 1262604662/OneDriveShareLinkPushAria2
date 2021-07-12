@@ -8,7 +8,7 @@ from urllib import parse
 import requests
 import os
 
-OneDriveShareURL = "https://stankyo.sharepoint.com/:f:/s/SK002/Egpj3auYf1VOj_TFCG6OWmgB8_okYQQWUWpd-9R3_jIIzw?e=ug3p3V"
+OneDriveShareURL = "https://x99m-my.sharepoint.com/:u:/g/personal/c46_txqq_me/EUR2VvZQuqREgLLjEmlm1HcB0_Ln5450jp-sjPtj4PIiuQ?e=ob1mae"
 
 aria2Link = "http://localhost:5800/jsonrpc"
 aria2Secret = "123456"
